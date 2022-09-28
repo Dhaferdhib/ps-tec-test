@@ -1,4 +1,4 @@
-![Diagram-flow](doc/logo.jpeg)
+![Diagram-flow](./doc/logo.jpeg)
 ## Ganouchou microservice technical test
 
 
@@ -26,7 +26,7 @@ and validate it by returning:
 
 
 ## The architecture
-![Diagram-flow](doc/diagram-flow.png)
+![Diagram-flow](./doc/diagram-flow.jpg)
 
 ## The project
 This project could be updated in all its parts including the hierarchy, modules and naming **except the infra layer** `infra/**`
